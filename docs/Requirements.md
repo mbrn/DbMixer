@@ -13,4 +13,5 @@
 - Shufle column data
 - Change date column with a random additional days
 - Change value by existing list of random data
+- Change data like e-mail or phone number completely
 - Limit data for a table
