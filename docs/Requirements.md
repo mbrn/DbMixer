@@ -1,15 +1,15 @@
 # Requirements
 
-## Core
+### Core
 - Long operations security
 - Consider persistency on a operation
 - Consider foreign keys
 
-## Database
+### Database
 - Support for Oracle
 - Support for MSSql
 
-## Algorithms
+### Algorithms
 - Shufle column data
 - Change date column with a random additional days
 - Change value by existing list of random data
